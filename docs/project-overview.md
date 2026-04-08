@@ -1,7 +1,7 @@
 # Project Overview
 
 ## Project Name
-MDB Rental System
+Majlis Daerah Besut Rental System
 
 ## Owner
 TAJDID Corporation 
