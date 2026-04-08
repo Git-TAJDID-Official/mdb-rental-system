@@ -1,4 +1,4 @@
-<img width="772" height="359" alt="image" src="https://github.com/user-attachments/assets/f9aed8a7-2b2d-4473-b539-f84bf6c66cc5" /># Project Overview
+# Project Overview
 
 ## Project Name
 MDB Rental System
